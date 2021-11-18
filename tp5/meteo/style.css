@@ -1,0 +1,21 @@
+html, body {
+  background: #2980B9;
+  background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+  background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+  min-width: 400px;
+}
+
+#ville {
+  text-transform: capitalize;
+}
+
+#temperature {
+  font-size: 4em;
+}
+
+#btnWeather {
+  background: rgba(5, 72, 114, 0.39);
+  cursor: pointer;
+  border-radius: 5px;
+  color: white;
+}

@@ -1,0 +1,26 @@
+body {
+  background-color: #f5f5f5;
+}
+
+#content1 {
+  margin: 3px;
+  padding: 5px;
+  background: lightskyblue;
+  border: 1px solid gray;  
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+ul {
+  padding-left: 0px;
+  list-style: none;
+}
+
+
+#content2 {
+  margin: 3px;
+  padding: 5px;
+  background: mediumblue;
+  border: 1px solid gray;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  color: white;
+}
